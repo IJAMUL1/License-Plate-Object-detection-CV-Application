@@ -1,6 +1,8 @@
 # License Plate Detection with YOLOv5
 
-This Python script uses the YOLOv5 object detection model to detect license plates in images or videos. It provides options to filter license plates by color (red or blue) and displays the results in real-time using OpenCV. when you run script, you will be required to pick a color (red or blue). This color will represent your opponent's color. This project draws a box around your opponents plate as a means of identification. Click image to download and view demo video.
+This Python script uses the YOLOv5 object detection model to detect license plates in images or videos. It provides options to filter license plates by color (red or blue) and displays the results in real-time using OpenCV. when you run script, you will be required to pick a color (red or blue). This color will represent your opponent's color. This project draws a box around your opponents plate as a means of identification.
+
+Click image to download and view demo video.
 
 [![Video Title](https://github.com/IJAMUL1/Plate-Object-detection-CV-Application/blob/main/frame_0.jpg)](https://drive.google.com/file/d/1GZvM6IB3s34Q8Kr_OcSHLJ1U-ZD_yAf9/view?usp=drive_link)
 
@@ -24,7 +26,7 @@ you will have to upload your pre trained deep learning model to detect plates. T
 Run the script named: plate_detection_code.py
 
 ## Expected Output
-[![Video Title](https://drive.google.com/file/d/1rZGndL7vpt9zQ7ESfz6fT9h97JMU8f9z/view?usp=drive_link)https://drive.google.com/file/d/1rZGndL7vpt9zQ7ESfz6fT9h97JMU8f9z/view?usp=drive_link)
+[![Video Title](https://drive.google.com/file/d/1rZGndL7vpt9zQ7ESfz6fT9h97JMU8f9z/view?usp=drive_link)
 
 
 
