@@ -16,16 +16,20 @@ This Python script uses the YOLOv5 object detection model to detect license plat
 
 2. Download the YOLOv5 model and place them in the root directory.
 
+## Note
+you will have to upload your pre trained deep learning model to detect plates. This code will help identify only plates of specific colors (red or blue).
+
 ## Usage
 
 Run the script named: plate_detection_code.py
 
+## Expected Output
+[![Video Title](https://drive.google.com/file/d/1rZGndL7vpt9zQ7ESfz6fT9h97JMU8f9z/view?usp=drive_link)https://drive.google.com/file/d/1rZGndL7vpt9zQ7ESfz6fT9h97JMU8f9z/view?usp=drive_link)
 
 
 
-Click image to download demo video
 
-[![Video Title](https://github.com/IJAMUL1/Plate-Object-detection-CV-Application/blob/main/frame_0.jpg)](https://drive.google.com/file/d/1GZvM6IB3s34Q8Kr_OcSHLJ1U-ZD_yAf9/view?usp=drive_link)
+
 
 
 
