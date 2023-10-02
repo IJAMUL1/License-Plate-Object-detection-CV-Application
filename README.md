@@ -26,6 +26,8 @@ you will have to upload your pre trained deep learning model to detect plates. T
 Run the script named: plate_detection_code.py
 
 ## Expected Output
+
+See video output to identify red license plates. 
 [![Video Title]](https://drive.google.com/file/d/1rZGndL7vpt9zQ7ESfz6fT9h97JMU8f9z/view?usp=drive_link)
 
 
