@@ -2,7 +2,7 @@
 
 This project uses the YOLOv5 object detection model to detect license plates in images or videos. It provides options to filter license plates by color (red or blue) and displays the results in real-time using OpenCV. when you run script, you will be required to pick a color (red or blue). This color will represent your opponent's color. This project draws a box around your opponents plate as a means of identification.
 
-Click image to download and view demo video.
+## Click image to download and view demo video.
 
 [![Video Title](https://github.com/IJAMUL1/Plate-Object-detection-CV-Application/blob/main/frame_0.jpg)](https://drive.google.com/file/d/1GZvM6IB3s34Q8Kr_OcSHLJ1U-ZD_yAf9/view?usp=drive_link)
 
