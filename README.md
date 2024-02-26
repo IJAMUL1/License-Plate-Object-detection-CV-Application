@@ -13,13 +13,13 @@ This project uses the YOLOv5 object detection model to detect license plates in 
 
 ## Installation
 
-1. Clone this repository to your local machine
+- Clone this repository to your local machine
 ```
 bash
 git clone https://github.com/IJAMUL1/License-Plate-Object-detection-CV-Application.git
 ```
 
-3. Download the YOLOv5 model and place them in the root directory.
+- Download the YOLOv5 model and place them in the root directory.
 
 ## Note
 you will have to upload your pre trained deep learning model to detect plates. This code will help identify only plates of specific colors (red or blue).
