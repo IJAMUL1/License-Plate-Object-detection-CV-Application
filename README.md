@@ -4,8 +4,12 @@ This project uses the YOLOv5 object detection model to detect license plates in 
 
 # Demo Video
 
-*Watch out for red boxes on robot plate*
-![Untitled video - Made with Clipchamp (5)](https://github.com/IJAMUL1/RTDETR-Tracking-Detection/assets/60096099/b6619da3-78a5-4a82-aa35-f67df451874f)
+*Watchout for the red boxes on the robot plates*
+
+<p align="center">
+  <img src="https://github.com/IJAMUL1/RTDETR-Tracking-Detection/assets/60096099/b6619da3-78a5-4a82-aa35-f67df451874f" alt="Your Image Description">
+</p>
+
 
 ## Prerequisites
 
