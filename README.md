@@ -7,7 +7,7 @@ This project uses a custom trained YOLOv5 object detection model to detect licen
 *Watchout for the red boxes on the robot plates*
 
 <p align="center">
-  <img src="https://github.com/IJAMUL1/RTDETR-Tracking-Detection/assets/60096099/b6619da3-78a5-4a82-aa35-f67df451874f" alt="Your Image Description">
+  <img src="https://github.com/IJAMUL1/RTDETR-Tracking-Detection/assets/60096099/b6619da3-78a5-4a82-aa35-f67df451874f" alt="Your Image Description" width="600">
 </p>
 
 
