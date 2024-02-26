@@ -2,6 +2,7 @@
 
 This project uses the YOLOv5 object detection model to detect license plates in images or videos. It provides options to filter license plates by color (red or blue) and displays the results in real-time using OpenCV. When you run script, you will be required to pick a color (red or blue). This color will represent your opponent's color. This project draws a box around your opponents plate as a means of identification.
 
+# Demo Video
 ![Untitled video - Made with Clipchamp (5)](https://github.com/IJAMUL1/RTDETR-Tracking-Detection/assets/60096099/b6619da3-78a5-4a82-aa35-f67df451874f)
 
 ## Prerequisites
